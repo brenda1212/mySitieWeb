@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8af07efd-4816-44bf-a50b-20581f01c78c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Hola_mundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/H-SeleniumCinep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrowptList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H-SeleniumCinep.py" beforeDir="false" afterPath="$PROJECT_DIR$/H-SeleniumCinep.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="H-SeleniumCinep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="H-SeleniumCinep" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="seleniunpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +71,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.H-SeleniumCinep" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -119,11 +116,44 @@
       <option name="project" value="LOCAL" />
       <updated>1691531452140</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SeleniumPython-Rename file">
+      <created>1691531837317</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691531837317</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SeleniumPython-Rename file">
+      <created>1691531939495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691531939495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SeleniumPython-Rename file">
+      <created>1691538733023</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691538733023</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SeleniumPython" />
-    <option name="LAST_COMMIT_MESSAGE" value="SeleniumPython" />
+    <MESSAGE value="SeleniumPython-Rename file" />
+    <option name="LAST_COMMIT_MESSAGE" value="SeleniumPython-Rename file" />
   </component>
 </project>
