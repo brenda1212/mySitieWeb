@@ -1,14 +1,19 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
-
+import time
 driver = webdriver.Chrome(executable_path="C:\\Users\\sairaf\\Downloads\\Chomedriver\\chromedriver.exe")
 driver.get("https://cinepolis.com/")
 
 
-elemento_por_nombre = driver.find_element(By.NAME, "ctl00$cmbCiudades")
+elementonombre=driver.find_element(By.NAME, 'ctl00$cmbCiudades')
+drop=Select(elementonombre)
 
-print(elemento_por_nombre.text)
+drop.select_by_value("30")
+time.sleep(4)
+
 
 driver.close()
+
+
+
