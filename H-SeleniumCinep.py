@@ -6,7 +6,12 @@ driver = webdriver.Chrome(executable_path="C:\\Users\\sairaf\\Downloads\\Chomedr
 driver.get("https://cinepolis.com/")
 elementonombre=driver.find_element(By.NAME, 'ctl00$cmbCiudades')
 drop=Select(elementonombre)
-drop.select_by_value("30")
+
+drop.select_by_visible_text("Chilpancingo")
+
+nameplaces=driver.find_element(By.NAME,'ctl00$cmbComplejos')
+list=Select(nameplaces)
+list.select_by_visible_text("Cinépolis Galerías Chilpancingo")
 time.sleep(4)
 
 
