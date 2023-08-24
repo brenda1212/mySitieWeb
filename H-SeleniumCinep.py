@@ -9,9 +9,7 @@ driver = webdriver.Chrome(options = option)
 driver.get("https://cinepolis.com/")
 elementonombre=driver.find_element(By.NAME,'ctl00$cmbCiudades')
 drop=Select(elementonombre)
-
 drop.select_by_visible_text("Chilpancingo")
-
 nameplaces=driver.find_element(By.NAME,'ctl00$cmbComplejos')
 list=Select(nameplaces)
 list.select_by_visible_text("Cinépolis Galerías Chilpancingo")
