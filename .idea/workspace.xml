@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8af07efd-4816-44bf-a50b-20581f01c78c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DrowptList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/seleniunpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seleniunpython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H-SeleniumCinep.py" beforeDir="false" afterPath="$PROJECT_DIR$/H-SeleniumCinep.py" afterDir="false" />
     </list>
@@ -37,18 +38,22 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/H-SeleniumCinep.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="2QcJSChIIOW3nrVLufHmlDzotne" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sairaf/Desktop/seleniunpython&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/sairaf/Desktop/seleniunpython",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="H-SeleniumCinep" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="seleniunpython" />
